@@ -33,3 +33,19 @@
 [2,6,16,18,22,27] dizisi sırandığında 18 sayısı ortada kaldığı için Avarage Case olur.
 ```
 
+- [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+```
+1. [7,3,5,8,2,9,4,15,6]  (n)
+2. [2,3,5,8,7,9,4,15,6]  (n-1)
+3. [2,3,4,5,7,9,8,15,6]  (n-2)
+4. [2,3,4,5,7,8,9,15,6]  (1)
+
+```
+
+
+
+
+
+
+
