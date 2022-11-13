@@ -21,3 +21,15 @@
  
  ```
 
+- Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+
+1. Average case: Aradığımız sayının ortada olması
+
+2. Worst case: Aradığımız sayının sonda olması
+
+3. Best case: Aradığımız sayının dizinin en başında olması
+
+```
+[2,6,16,18,22,27] dizisi sırandığında 18 sayısı ortada kaldığı için Avarage Case olur.
+```
+
